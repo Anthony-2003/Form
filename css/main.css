@@ -21,7 +21,7 @@ body {
 }
 
 .main {
-    margin: 230px auto;
+    margin: 210px auto;
     width: 400px;
     padding: 30px;
     background: var(--form-bg-color);
